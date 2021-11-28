@@ -1,4 +1,4 @@
-### Hello visitor, I'm Gustavo Stingelin, a back-end developer 👋
+### Hello visitor, I'm a back-end developer 👋
 
 Studying golang.
 
