@@ -27,3 +27,7 @@ I'm Gustavo, an engineer who's deep into the world of Bitcoin OSS and cryptograp
 * Queues
 
 Feel free to explore my repositories, contribute, or just say hi. Let's build something meaningful together!
+
+[Reviewed PRs](https://github.com/pulls?q=is%3Apr+reviewed-by%3Agustavostingelin+is%3Apublic+)
+
+[Created PRs](https://github.com/pulls?q=is%3Apr+author%3Agustavostingelin+is%3Apublic+)
