@@ -4,30 +4,13 @@ I'm Gustavo, an engineer who's deep into the world of Bitcoin OSS and cryptograp
 
 ### ⚡ Current Focus
 
-* Bitcoin
-* Lightning Network
-* Golang
-* Cryptography
-
-### 🚀 On My Learning Radar
-
-* Rust (currently exploring it to expand my toolbox)
+Bitcoin, Lightning Network, Golang, Cryptography
 
 ### 🛠️ Past Skills & Experience
 
-* Kotlin
-* Generative AI (GenAI)
-* Java
-* Python
-* Microservices
-* Kubernetes
-* CI/CD Pipelines
-* AWS
-* Databases (SQL, NoSQL)
-* Queues
+Kotlin, Generative AI (GenAI), Java, Python, Microservices, Kubernetes, CI/CD Pipelines, AWS, Databases (SQL, NoSQL), Queues
 
-Feel free to explore my repositories, contribute, or just say hi. Let's build something meaningful together!
+#### Feel free to explore my repositories, contribute, or just say hi. Let's build something meaningful together!
 
 [Reviewed PRs](https://github.com/pulls?q=is%3Apr+reviewed-by%3Agustavostingelin+is%3Apublic+)
-
 [Created PRs](https://github.com/pulls?q=is%3Apr+author%3Agustavostingelin+is%3Apublic+)
